@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Covid-19</string>
+    <string name="pandemia">PANDEMIA: COVID-19</string>
+    <string name="nombre">Ingrese su nombre</string>
+    <string name="edad">Ingrese su edad</string>
+    <string name="iconoEstrella">iconoEstrella</string>
+    <string name="ingresar">Ingresar</string>
+
+
+    <string name="covid19">COVID-19</string>
+    <string name="infoCovid19">La hasta entonces misteriosa enfermedad fue descubierta en Wuhan el pasado diciembre,
+        no mucho antes de la elebración del Año nuevo lunar, momento en el cual China experimenta la migración humana más grande del planeta.
+        Wuhan es la capital de la provincia de Hubei, y actúa como punto de conexión en los viajes entre las principales ciudades chinas.
+        Con 11 millones de habitantes, Wuhan es más grande que Londres o Nueva York.
+        \n\nA pesar de los grandes esfuerzos realizados por China para contenerlo, el nuevo coronavirus se ha extendido rápidamente por el mundo.
+        Muchos países han tomado medidas inéditas y están poniendo en cuarentena a todo viajero que llegue a sus territorios.
+        A continuación se explica pormenorizadamente cómo empezó la pandemia que hoy preocupa a todo el planeta. </string>
+
+    <string name="indicacion">INDICACIONES</string>
+    <string name="infoIndicacion">En estos momentos no existe una vacuna para prevenir la enfermedad del coronavirus 2019 (COVID-19).​
+    La mejor manera de prevenir la enfermedad es evitar la exposición a este virus.
+    \n\n- El virus se propaga principalmente de persona a persona. Entre personas que están en contacto cercano (a una distancia de hasta aproximadamente 6 pies).
+    \n\n- A través de gotitas respiratorias que se producen cuando una persona infectada tose, estornuda o habla.
+    \n\n- Estas gotitas pueden terminar en la boca o en la nariz de quienes se encuentran cerca o posiblemente ser inhaladas y llegar a los pulmones.
+    \n\n- Algunos estudios recientes sugieren que el COVID-19 puede propagarse a través de personas que no presentan síntomas.
+        \n\n                           <b>TODOS DEBERIAN</b>
+        \n\n- Lavarse las manos con frecuencia con agua y jabón por al menos 20 segundos, especialmente después de haber estado en un lugar público, o después de sonarse la nariz, toser o estornudar.
+        \n\n- Si no dispone de agua y jabón, use un desinfectante de manos que contenga al menos un 60 % de alcohol. Cubra todas las superficies de las manos y frótelas hasta que sienta que se secaron.
+        \n\n- Evite tocarse los ojos, la nariz y la boca sin haberse lavado las manos.
+        \n\n- Evite el contacto cercano con personas que están enfermas.
+        \n\n- Quédese en casa tanto como sea posible.
+        \n\n- Ponga distancia entre usted y las demás personas.
+        \n\n- Todos deberían usar una cubierta de tela para cara cuando salen de sus casas, por ejemplo, para ir a la tienda de comestibles o para buscar otros productos necesarios.
+        \n\n- La cubierta de tela para cara es para proteger a las demás personas en caso de que usted esté infectado.
+        \n\n- NO use una mascarilla destinada a los trabajadores de la salud.
+        \n\n- Siga manteniendo una distancia de aproximadamente 6 pies de las demás personas. La cubierta de tela para cara no reemplaza las medidas de distanciamiento social.
+
+
+    </string>
+
+    <string name="sintomas">SINTOMAS</string>
+    <string name="infoSintomas">Los síntomas notificados por personas con COVID-19 varían desde aquellos que presentan síntomas leves hasta quienes se enferman gravemente.
+    \n\nEstos síntomas pueden aparecer <b>2 a 14 días después de la exposición al virus:</b>
+    \n\n- Fiebre \n\n- Tos \n\n- Dificultad para respirar (sentir que le falta el aire) \n\n- Escalofríos \n\n- Temblores y escalofríos que no ceden \n\n- Dolor muscular \n\n- Dolor de cabeza
+    \n\n- Dolor de garganta \n\n- Pérdida reciente del olfato o el gusto
+    </string>
+
+</resources>
